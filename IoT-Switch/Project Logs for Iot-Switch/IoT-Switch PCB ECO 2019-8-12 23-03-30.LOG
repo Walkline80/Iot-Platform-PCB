@@ -1,0 +1,15 @@
+Added Component: Designator=D1(DIO10.46-5.3x2.8)
+Added Component: Designator=Dev1(DevKit)
+Added Component: Designator=Q1(BCY-W3)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetDev1_0 Pin=Dev1-0
+Added Pin To Net: NetName=NetD1_1 Pin=Dev1-1
+Added Pin To Net: NetName=NetDev1_17 Pin=Dev1-17
+Added Pin To Net: NetName=NetDev1_0 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Member To Class: ClassName=IoT-Switch Member=Component D1 Diode 1N4148
+Added Member To Class: ClassName=IoT-Switch Member=Component Dev1 DevKit
+Added Member To Class: ClassName=IoT-Switch Member=Component Q1 NPN9012
+Added Room: Name=IoT-Switch
