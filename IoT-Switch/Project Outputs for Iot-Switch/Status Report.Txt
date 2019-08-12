@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Project [Iot-Switch.PrjPcb]
+   Generated File[Iot-Switch.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:05:23 On 2019/8/12
