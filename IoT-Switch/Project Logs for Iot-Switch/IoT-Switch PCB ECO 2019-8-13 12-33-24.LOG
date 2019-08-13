@@ -1,0 +1,4 @@
+Added Component: Designator=Dev1(DevKit)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=IoT-Switch Member=Component Dev1 DevKit
+Added Room: Name=IoT-Switch
