@@ -48,7 +48,7 @@
 
 ### 附件
 
-* [继电器模块电路图](http://baidu.com)
+* [继电器模块电路图](images/2Relay_Module_Schem.pdf)
 
 * DevKit V1 开发板
 ![](images/ESP32_DevKit_V1.png)
